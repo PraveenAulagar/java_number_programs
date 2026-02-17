@@ -1,9 +1,9 @@
 # JAVA NUMBER PROGRAMS
 
-## Palindrome program
-## fibonacci program
-## odd_even program
-## ArmStron Number
+## -> Palindrome program
+## -> Fibonacci program
+## -> Odd_Even program
+## -> ArmStrong Number
 
 # prerequisites basic arthematic operators(+,-,*,%,/)
 
