@@ -4,6 +4,7 @@
 ## -> Fibonacci program
 ## -> Odd_Even program
 ## -> ArmStrong Number
+## -> Buzz Number
 
 # prerequisites basic arthematic operators(+,-,*,%,/)
 
